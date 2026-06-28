@@ -45,15 +45,18 @@ O Fato é a coluna de interesse que representa o ponto focal da análise. Nesse 
 
 As colunas foram agrupadas em dimensões comuns que fornecem mais detalhes sobre o Fato que será analisado. Foram organizadas as seguintes dimensões:
 
-Perfil Pessoal e Demográfico: Age, Gender, MaritalStatus, Education, EducationField, DistanceFromHome, Over18.
+Tempo e Data (Contexto Temporal): Date, Time. (Fornece a base cronológica para análise de sazonalidade, picos de demanda e horários de pico).
 
-Remuneração e Cargo: Department, JobRole, JobLevel, MonthlyIncome, Média_Cargo, Comparativo_Salarial, HourlyRate, DailyRate, MonthlyRate, StockOptionLevel, PercentSalaryHike.
+Localização e Veículo (Logística e Percurso): Vehicle Type, Pickup Location, Drop Location. (Detalha a estrutura operacional da viagem, incluindo o modal utilizado e os pontos de origem e destino).
 
-Carreira, Tempo de Casa e Mobilidade: YearsAtCompany, YearsAtCompany_Blocks, YearsInCurrentRole, YearsSinceLastPromotion, YearsWithCurrManager, TotalWorkingYears, NumCompaniesWorked, BusinessTravel.
+Valores e Distância (Métricas Quantitativas da Corrida): Avg VTAT, Avg CTAT, Booking Value, Ride Distance. (Reúne as principais medidas numéricas que servirão como base para os cálculos de performance, faturamento e eficiência de tempo).
 
-Satisfação, Engajamento e Desempenho: JobSatisfaction, EnvironmentSatisfaction, RelationshipSatisfaction, WorkLifeBalance, JobInvolvement, PerformanceRating, OverTime, TrainingTimesLastYear.
+Avaliações e Pagamento (Experiência e Quitação): Driver Ratings, Customer Rating, Payment Method. (Agrupa as percepções de qualidade tanto do motorista quanto do cliente, além da forma de pagamento utilizada).
 
-Controle e Identificação do Registro: EmployeeNumber, EmployeeCount, StandardHours, Attrition (variável alvo).
+Cancelamentos e Incompletude (Motivos de Falha): Reason for cancelling by Customer, Driver Cancellation Reason, Incomplete Rides Reason. (Centraliza os fatores qualitativos e categóricos que explicam as interrupções e insucessos na operação).
+
+Controle e Identificação do Registro: Booking ID, Customer ID, Booking Status, Cancelled Rides by Customer, Cancelled Rides by Driver, Incomplete Rides. (Aqui estão os identificadores únicos para rastreabilidade, as contagens de eventos críticos e o Booking Status, que funciona como a variável de desfecho (alvo) para classificação do resultado final da reserva).
+
 
 # Passo 5: Hipóteses Analíticas
 
