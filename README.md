@@ -112,10 +112,12 @@ H9: Motoristas com baixa avaliação cancelam mais
 # Resultados
 
 **📥 Baixe a apresentação em PowerPoint (clique no link e, em seguida, em "Download" ou "View raw"):**  
-  [https://docs.google.com/presentation/d/1ZAYDpxq3G5c3JzxRrJV63NLcst2hbMUj/edit?slide=id.p1#slide=id.p1](https://docs.google.com/presentation/d/1ZAYDpxq3G5c3JzxRrJV63NLcst2hbMUj/edit?slide=id.p1#slide=id.p1)
+  [https://docs.google.com/presentation/d/1XHxmh7erL-NnA13BMChkJsRH5zSv07E2/edit?usp=drive_link&ouid=114029927907630112086&rtpof=true&sd=true](https://docs.google.com/presentation/d/1XHxmh7erL-NnA13BMChkJsRH5zSv07E2/edit?usp=drive_link&ouid=114029927907630112086&rtpof=true&sd=true)
 
 # Próximos passos
 
-Fazer uma análise preditiva para saber o Turnover da IBM para o próximo ano.
+Fazer o acompanhamento das futuras correções no sistema de punição dos motoristas para verificar se houve redução na taxa de cancelamento por parte de clientes e motoristas.
 
-(não é possível fazer essa análise porque esse dataset não tem dimensão de data)
+Este é o retrato do sintoma. Na próxima fase, precisamos responder: isso acontece porque as corridas têm baixo valor? Porque a distância até o embarque é grande? Ou trata-se apenas de má-fé?
+
+Vamos cruzar os 44% de cancelamentos com o tempo de espera e o valor da corrida para identificar a causa principal e definir se a solução deve ser punitiva ou baseada em reajustes no repasse aos motoristas.
