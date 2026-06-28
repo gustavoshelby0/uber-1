@@ -60,19 +60,23 @@ Controle e Identificação do Registro: Booking ID, Customer ID, Booking Status,
 
 # Passo 5: Hipóteses Analíticas
 
-H1: Profissionais casados têm uma rotatividade menor.
+H1:Cliente tem uma taxa de cancelamento de corrida de 4%
 
-H2: Profissionais que trabalham em muitas empresas têm alta rotatividade.
+H2:motoristas tem uma taxa de cancelamento na corrida de 20%
 
-H3: Profissionais com baixa qualidade de vida têm rotatividade maior.
+H3: os motorista que tem a maior taxa de cancelamento trabalham de carro
 
-H4: Profissionais que fazem hora extra têm alta rotatividade.
+H4: os passageiros de moto tem maior taxa de cancelamento em comparação com os que pedem carro
 
-H5: Profissionais que recebem menos que os colegas estando no mesmo cargo têm alta rotatividade.
+H5: Os clientes que mais cancelam e porque mudaram de ideia
 
-H6: Profissionais com menos de 3 anos de trabalho na IBM têm rotatividade maior.
+H6: Os clientes que menos cancelam e porque o motorista forcou o cancelamento
 
-H7: Profissionais Jrs e Estagiários têm uma rotatividade maior.
+H7: As corridas que tem mais cancelamentos sao as mais baratas
+
+H8: Os motoristas cancelam porque a corrida e longa e o retorno e baixo para ele
+
+H9: Motoristas com baixa avaliação cancelam mais
 
 # Passo 6: Critérios de Priorização
 
@@ -81,19 +85,23 @@ H7: Profissionais Jrs e Estagiários têm uma rotatividade maior.
 
 # Passo 7: Priorização das Hipóteses Analíticas
 
-H1: Profissionais casados têm uma rotatividade menor.
+H1:Cliente tem uma taxa de cancelamento de corrida de 4%
 
-H2: Profissionais que trabalham em muitas empresas têm alta rotatividade.
+H2:motoristas tem uma taxa de cancelamento na corrida de 20%
 
-H3: Profissionais com baixa qualidade de vida têm rotatividade maior.
+H3: os motorista que tem a maior taxa de cancelamento trabalham de carro
 
-H4: Profissionais que fazem hora extra têm alta rotatividade.
+H4: os passageiros de moto tem maior taxa de cancelamento em comparação com os que pedem carro
 
-H5: Profissionais que recebem menos que os colegas estando no mesmo cargo têm alta rotatividade.
+H5: Os clientes que mais cancelam e porque mudaram de ideia
 
-H6: Profissionais com menos de 3 anos de trabalho na IBM têm rotatividade maior.
+H6: Os clientes que menos cancelam e porque o motorista forcou o cancelamento
 
-H7: Profissionais Jrs e Estagiários têm uma rotatividade maior.
+H7: As corridas que tem mais cancelamentos sao as mais baratas
+
+H8: Os motoristas cancelam porque a corrida e longa e o retorno e baixo para ele
+
+H9: Motoristas com baixa avaliação cancelam mais
 
 # Insights da análise
 
