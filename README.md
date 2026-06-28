@@ -15,7 +15,7 @@ Driver asked to cancel (Motorista pediu para cancelar)
 
 Driver is not moving towards pickup location (O motorista está parado)
 
-Foram analisadas 150.002 corridas da Uber.
+Foram analisadas 150.000 corridas da Uber.
 Os dados da Uber são referentes ao ano de 2024. e as corridas analisadas foram realizadas na Índia.
 
 # Estratégia da solução
