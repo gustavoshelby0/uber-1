@@ -11,6 +11,7 @@ Uma parcela relevante dos cancelamentos ocorre porque o motorista solicita que o
 
 Só analisei o Fenômeno:
 Driver asked to cancel (Motorista pediu para cancelar)
+
 Driver is not moving towards pickup location (O motorista está parado)
 
 Foram analisados 150.002 mil corridas da uber
