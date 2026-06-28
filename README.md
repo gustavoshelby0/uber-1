@@ -39,7 +39,7 @@ Para essa análise, foi definida a seguinte pergunta fechada:
 
 # Passo 3: Definição da Coluna Fato
 
-O Fato é a coluna de interesse que representa o ponto focal da análise. Nesse caso, a coluna "Attrition" mostra se o funcionário está na empresa ou se já saiu.
+O Fato é a coluna de interesse que representa o ponto focal da análise. Nesse caso, a coluna "Booking Status" mostra se a corrida foi concluida ou nao.
 
 # Passo 4: Identificação das Dimensões
 
