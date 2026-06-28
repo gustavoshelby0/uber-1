@@ -112,7 +112,7 @@ H9: Motoristas com baixa avaliação cancelam mais
 # Resultados
 
 **📥 Baixe a apresentação em PowerPoint (clique no link e, em seguida, em "Download" ou "View raw"):**  
-  [https://docs.google.com/presentation/d/1XHxmh7erL-NnA13BMChkJsRH5zSv07E2/edit?usp=drive_link&ouid=114029927907630112086&rtpof=true&sd=true](https://docs.google.com/presentation/d/1XHxmh7erL-NnA13BMChkJsRH5zSv07E2/edit?usp=drive_link&ouid=114029927907630112086&rtpof=true&sd=true)
+  [https://docs.google.com/presentation/d/1XHxmh7erL-NnA13BMChkJsRH5zSv07E2/edit?usp=drive_link&ouid=114029927907630112086&rtpof=true&sd=true](https://docs.google.com/presentation/d/1XHxmh7erL-NnA13BMChkJsRH5zSv07E2)
 
 # Próximos passos
 
