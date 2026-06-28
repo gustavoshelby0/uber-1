@@ -78,6 +78,10 @@ H8: Os motoristas cancelam porque a corrida e longa e o retorno e baixo para ele
 
 H9: Motoristas com baixa avaliação cancelam mais
 
+Fiz no inicio apenas 4 Hipóteses. para quebrar o Gelo.  isso e uma analise exploratória do dataframe com base na pergunta fechada que o Analista de Dados Sr (Gustavo Shelby) me sugeri-o
+
+**Hipótese Inicial → Rodar Excel/Análise → Obter Insight → Questionar o Insight → Gerar Nova Hipótese → Rodar Nova Análise.**
+
 # Passo 6: Critérios de Priorização
 
 - **Critério 1:** Dados disponíveis.
