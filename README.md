@@ -121,4 +121,4 @@ Fazer o acompanhamento das futuras correções no sistema de punição dos motor
 
 Este é o retrato do sintoma. Na próxima fase, precisamos responder: isso acontece porque as corridas têm baixo valor? Porque a distância até o embarque é grande? Ou trata-se apenas de má-fé?
 
-Vamos cruzar os 44% de cancelamentos com o tempo de espera e o valor da corrida para identificar a causa principal e definir se a solução deve ser punitiva ou baseada em reajustes no repasse aos motoristas.
+Vamos cruzar os 25% de cancelamentos dos clientes e dos motoristas com o tempo de espera e o valor da corrida para identificar a causa principal e definir se a solução deve ser punitiva ou baseada em reajustes no repasse aos motoristas.
