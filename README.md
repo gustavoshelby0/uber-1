@@ -7,15 +7,16 @@
 Uma parcela relevante dos cancelamentos ocorre porque o motorista solicita que o cliente cancele a corrida ou porque permanece parado sem seguir para o local de embarque após aceitar a viagem. Em ambos os casos, o cliente percebe que a corrida provavelmente não será realizada e opta pelo cancelamento.
 
 **Impacto:** Aumento da taxa de cancelamento, perda de receita, piora da experiência do usuário e redução da confiança na plataforma, o que pode levar clientes a utilizar serviços concorrentes.
+
 # Premissas da análise
 
-Só analisei o Fenômeno:
+Só analisei o fenômeno:
 Driver asked to cancel (Motorista pediu para cancelar)
 
 Driver is not moving towards pickup location (O motorista está parado)
 
-Foram analisados 150.002 mil corridas da uber
-os dados da uber são referentes ao ano de (2024)
+Foram analisadas 150.002 corridas da Uber.
+Os dados da Uber são referentes ao ano de 2024.
 
 # Estratégia da solução
 
@@ -39,7 +40,7 @@ Para essa análise, foi definida a seguinte pergunta fechada:
 
 # Passo 3: Definição da Coluna Fato
 
-O Fato é a coluna de interesse que representa o ponto focal da análise. Nesse caso, a coluna "Booking Status" mostra se a corrida foi concluida ou nao.
+O Fato é a coluna de interesse que representa o ponto focal da análise. Nesse caso, a coluna "Booking Status" mostra se a corrida foi concluída ou não.
 
 # Passo 4: Identificação das Dimensões
 
@@ -60,25 +61,25 @@ Controle e Identificação do Registro: Booking ID, Customer ID, Booking Status,
 
 # Passo 5: Hipóteses Analíticas
 
-H1:Cliente tem uma taxa de cancelamento de corrida de 4%
+H1: Cliente tem uma taxa de cancelamento de corrida de 4%
 
-H2:motoristas tem uma taxa de cancelamento na corrida de 20%
+H2: Motoristas têm uma taxa de cancelamento na corrida de 20%
 
-H3: os motorista que tem a maior taxa de cancelamento trabalham de carro
+H3: Os motoristas que têm a maior taxa de cancelamento trabalham de carro
 
-H4: os passageiros de moto tem maior taxa de cancelamento em comparação com os que pedem carro
+H4: Os passageiros de moto têm maior taxa de cancelamento em comparação com os que pedem carro
 
-H5: Os clientes que mais cancelam e porque mudaram de ideia
+H5: Os clientes que mais cancelam é porque mudaram de ideia
 
-H6: Os clientes que menos cancelam e porque o motorista forcou o cancelamento
+H6: Os clientes que menos cancelam é porque o motorista forçou o cancelamento
 
-H7: As corridas que tem mais cancelamentos sao as mais baratas
+H7: As corridas que têm mais cancelamentos são as mais baratas
 
-H8: Os motoristas cancelam porque a corrida e longa e o retorno e baixo para ele
+H8: Os motoristas cancelam porque a corrida é longa e o retorno é baixo para eles
 
 H9: Motoristas com baixa avaliação cancelam mais
 
-Fiz no inicio apenas 4 Hipóteses. para quebrar o Gelo.  isso e uma analise exploratória do dataframe com base na pergunta fechada que o Analista de Dados Sr (Gustavo Shelby) me sugeri-o
+Fiz no início apenas 4 Hipóteses para quebrar o gelo. Isso é uma análise exploratória do dataframe com base na pergunta fechada que o Analista de Dados Sr (Gustavo Shelby) me sugeriu.
 
 **Hipótese Inicial → Rodar Excel/Análise → Obter Insight → Questionar o Insight → Gerar Nova Hipótese → Rodar Nova Análise.**
 
@@ -89,21 +90,21 @@ Fiz no inicio apenas 4 Hipóteses. para quebrar o Gelo.  isso e uma analise expl
 
 # Passo 7: Priorização das Hipóteses Analíticas
 
-H1:Cliente tem uma taxa de cancelamento de corrida de 4%
+H1: Cliente tem uma taxa de cancelamento de corrida de 4%
 
-H2:motoristas tem uma taxa de cancelamento na corrida de 20%
+H2: Motoristas têm uma taxa de cancelamento na corrida de 20%
 
-H3: os motorista que tem a maior taxa de cancelamento trabalham de carro
+H3: Os motoristas que têm a maior taxa de cancelamento trabalham de carro
 
-H4: os passageiros de moto tem maior taxa de cancelamento em comparação com os que pedem carro
+H4: Os passageiros de moto têm maior taxa de cancelamento em comparação com os que pedem carro
 
-H5: Os clientes que mais cancelam e porque mudaram de ideia
+H5: Os clientes que mais cancelam é porque mudaram de ideia
 
-H6: Os clientes que menos cancelam e porque o motorista forcou o cancelamento
+H6: Os clientes que menos cancelam é porque o motorista forçou o cancelamento
 
-H7: As corridas que tem mais cancelamentos sao as mais baratas
+H7: As corridas que têm mais cancelamentos são as mais baratas
 
-H8: Os motoristas cancelam porque a corrida e longa e o retorno e baixo para ele
+H8: Os motoristas cancelam porque a corrida é longa e o retorno é baixo para eles
 
 H9: Motoristas com baixa avaliação cancelam mais
 
