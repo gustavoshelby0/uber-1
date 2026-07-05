@@ -1,5 +1,21 @@
 # Análise de  "Driver asked to cancel" da Uber
 
+[Baixe a apresentação em PowerPoint](https://docs.google.com/presentation/d/1XHxmh7erL-NnA13BMChkJsRH5zSv07E2)
+
+[Baixe a apresentação em PowerPoint](https://docs.google.com/presentation/d/1jrQ17n-un9UXdU5uls8ValpbZDV1kk1F)
+
+## Data Analyst 
+
+
+📥 **Baixe a apresentação estilo Power BI em HTML:**
+[Clique aqui para acessar o arquivo](https://drive.google.com/file/d/1bv5T9d0dek76KkMIfU-rPlpvT-6Qz-BW/view?usp=sharing)
+
+📥 **Baixe a apresentação executiva em HTML:**
+[Clique aqui para acessar o arquivo](https://drive.google.com/file/d/1NcQBFR4Emh6XB-fWEm5OO1duFy_erTvV/view?usp=sharing)
+
+
+
+
 # Problema de Negócio
 
 **Cancelamentos Causados por Falhas Operacionais**
