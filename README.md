@@ -1,5 +1,7 @@
 # Análise de  "Driver asked to cancel" da Uber
 
+## PPT criado a mão pelo Gustavo Shelby
+
 [Baixe a apresentação em PowerPoint - Driver asked to cancel ](https://docs.google.com/presentation/d/1XHxmh7erL-NnA13BMChkJsRH5zSv07E2)
 
 [Baixe a apresentação em PowerPoint - No Driver Found ](https://docs.google.com/presentation/d/1jrQ17n-un9UXdU5uls8ValpbZDV1kk1F)
@@ -8,10 +10,10 @@
 
 
 📥 **Baixe a apresentação estilo Power BI em HTML:**
-[Clique aqui para acessar o arquivo](https://drive.google.com/file/d/1bv5T9d0dek76KkMIfU-rPlpvT-6Qz-BW/view?usp=sharing)
+[Clique aqui para acessar o arquivo](https://drive.google.com/file/d/1-KXNdwxrRIHtiQRS3h2gUeqr4FEt2ruC/view?usp=sharing)
 
 📥 **Baixe a apresentação executiva em HTML:**
-[Clique aqui para acessar o arquivo](https://drive.google.com/file/d/1NcQBFR4Emh6XB-fWEm5OO1duFy_erTvV/view?usp=sharing)
+[Clique aqui para acessar o arquivo](https://drive.google.com/file/d/1ttbhY1olvreaE6CjqnM3Am0Ny3rPnULl/view?usp=sharing)
 
 
 
@@ -128,8 +130,22 @@ H9: Motoristas com baixa avaliação cancelam mais
 
 # Resultados
 
-**📥 Baixe a apresentação em PowerPoint (clique no link e, em seguida, em "Download" ou "View raw"):**  
-  [https://docs.google.com/presentation/d/1XHxmh7erL-NnA13BMChkJsRH5zSv07E2/edit?usp=drive_link&ouid=114029927907630112086&rtpof=true&sd=true](https://docs.google.com/presentation/d/1XHxmh7erL-NnA13BMChkJsRH5zSv07E2)
+## PPT criado a mão pelo Gustavo Shelby
+
+[Baixe a apresentação em PowerPoint - Driver asked to cancel ](https://docs.google.com/presentation/d/1XHxmh7erL-NnA13BMChkJsRH5zSv07E2)
+
+[Baixe a apresentação em PowerPoint - No Driver Found ](https://docs.google.com/presentation/d/1jrQ17n-un9UXdU5uls8ValpbZDV1kk1F)
+
+## Data Analyst 
+
+
+📥 **Baixe a apresentação estilo Power BI em HTML:**
+[Clique aqui para acessar o arquivo](https://drive.google.com/file/d/1-KXNdwxrRIHtiQRS3h2gUeqr4FEt2ruC/view?usp=sharing)
+
+📥 **Baixe a apresentação executiva em HTML:**
+[Clique aqui para acessar o arquivo](https://drive.google.com/file/d/1ttbhY1olvreaE6CjqnM3Am0Ny3rPnULl/view?usp=sharing)
+
+
 
 # Próximos passos
 
