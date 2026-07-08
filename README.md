@@ -6,7 +6,7 @@
 
 [Baixe a apresentação em PowerPoint - No Driver Found ](https://docs.google.com/presentation/d/1jrQ17n-un9UXdU5uls8ValpbZDV1kk1F)
 
-## Data Analyst 
+## Data Analyst LLM
 
 
 📥 **Baixe a apresentação estilo Power BI em HTML:**
@@ -136,7 +136,7 @@ H9: Motoristas com baixa avaliação cancelam mais
 
 [Baixe a apresentação em PowerPoint - No Driver Found ](https://docs.google.com/presentation/d/1jrQ17n-un9UXdU5uls8ValpbZDV1kk1F)
 
-## Data Analyst 
+## Data Analyst LLM
 
 
 📥 **Baixe a apresentação estilo Power BI em HTML:**
