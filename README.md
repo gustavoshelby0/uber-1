@@ -4,7 +4,6 @@
 
 [Baixe a apresentação em PowerPoint - Driver asked to cancel ](https://docs.google.com/presentation/d/1XHxmh7erL-NnA13BMChkJsRH5zSv07E2)
 
-[Baixe a apresentação em PowerPoint - No Driver Found ](https://docs.google.com/presentation/d/1jrQ17n-un9UXdU5uls8ValpbZDV1kk1F)
 
 ## Data Analyst LLM
 
@@ -133,8 +132,6 @@ H9: Motoristas com baixa avaliação cancelam mais
 ## PPT criado a mão pelo Gustavo Shelby
 
 [Baixe a apresentação em PowerPoint - Driver asked to cancel ](https://docs.google.com/presentation/d/1XHxmh7erL-NnA13BMChkJsRH5zSv07E2)
-
-[Baixe a apresentação em PowerPoint - No Driver Found ](https://docs.google.com/presentation/d/1jrQ17n-un9UXdU5uls8ValpbZDV1kk1F)
 
 ## Data Analyst LLM
 
